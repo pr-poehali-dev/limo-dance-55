@@ -18,10 +18,10 @@ export default function MainInvitation({ guestName }: MainInvitationProps) {
       <div className="relative z-10 flex flex-col items-center justify-center min-h-screen p-6 text-center">
         {/* Main title in Barbie style */}
         <div className="mb-8">
-          <h1 className="font-montserrat font-bold text-6xl md:text-8xl bg-gradient-to-r from-barbie-pink via-barbie-lightPink to-barbie-pink bg-clip-text text-transparent mb-4 leading-tight drop-shadow-2xl">
+          <h1 className="font-montserrat font-bold text-4xl sm:text-5xl md:text-6xl lg:text-8xl bg-gradient-to-r from-barbie-pink via-barbie-lightPink to-barbie-pink bg-clip-text text-transparent mb-4 leading-tight drop-shadow-2xl">
             LIMO-DANCE
           </h1>
-          <h2 className="font-montserrat font-bold text-6xl md:text-8xl bg-gradient-to-r from-barbie-pink via-barbie-lightPink to-barbie-pink bg-clip-text text-transparent mb-6 leading-tight drop-shadow-2xl">
+          <h2 className="font-montserrat font-bold text-4xl sm:text-5xl md:text-6xl lg:text-8xl bg-gradient-to-r from-barbie-pink via-barbie-lightPink to-barbie-pink bg-clip-text text-transparent mb-6 leading-tight drop-shadow-2xl">
             REVOLUTION 55
           </h2>
         </div>
